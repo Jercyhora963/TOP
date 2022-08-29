@@ -1,0 +1,12 @@
+#twoTypes {
+    display: flex;
+    position: relative;
+    justify-content: space-around;
+    font-size: larger;
+}
+
+#twoTypesDef {
+    display: flex;
+    position: relative;
+    justify-content: space-evenly;
+}
